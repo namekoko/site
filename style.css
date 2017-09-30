@@ -72,9 +72,8 @@ img {border: 0;	vertical-align: bottom;}
 
 
 #out {
-	margin:0 auto 10px auto;
+	margin:0px auto;
 	text-align: left;
-	width:700px;
 }
 
 
@@ -84,7 +83,8 @@ img {border: 0;	vertical-align: bottom;}
 	text-align: left;
 	margin:0px auto 20px auto;
 	padding:25px;
-	background-color:#E3E3E3;
+	border-bottom: 1px solid #cccccc;
+	background-color:#7fffd4;
 }
 
 #menu  {
@@ -125,10 +125,11 @@ h4 {
 	border-bottom: 1px solid #cccccc;
 }
 
+
 #main{
 	letter-spacing: 0.1em;
 	font-size: 110%;
-	margin:0 2em;
+	margin:0 3em;
 	line-height: 1.9;
 }
 
@@ -148,7 +149,8 @@ h4 {
 #footer {
 	margin: 3em 0 0 0;
 	padding: 2em 0;
-	background-color:#E3CEF6;
+	border-top: 1px solid #cccccc;
+	background-color:#7fffd4;
 	line-height: 1.9;
 	text-align: center;
 	letter-spacing: 0.1em;
@@ -156,11 +158,12 @@ h4 {
 
 .copyright {
 	font-size: 75%;
-	margin: 0 15px 0 0;
-	padding: 10px 0 20px 0;
+	margin: 0;
+	padding: 0 15px 20px 0;
 	text-align: right;
 	color:#888888;
 	letter-spacing: 0.1em;
+	background-color:#EFEFEF;
 }
 
 
